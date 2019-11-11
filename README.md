@@ -1,6 +1,6 @@
 # smart_notes
 
-Create notes and organize them using tags, not directories.
+Markdown notes application. Create and organize notes using tags, not directories.
 
 ## Getting Started
 
