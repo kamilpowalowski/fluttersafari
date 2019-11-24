@@ -1,4 +1,4 @@
-package com.fluttersafari.smart_notes
+package com.fluttersafari.fluttersafari
 
 import android.os.Bundle
 

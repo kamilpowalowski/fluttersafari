@@ -1,5 +1,5 @@
-name: smart_notes
-description: Markdown notes application. Create and organize notes using tags, not directories.
+name: fluttersafari
+description: Application for storing challenges made on FlutterSafari.com website
 
 version: 0.0.0+1
 
