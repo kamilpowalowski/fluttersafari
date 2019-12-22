@@ -132,14 +132,14 @@ class _StockChartExampleState extends State<StockChartExample> {
   FlGridData _gridData() {
     return FlGridData(
       show: true,
-      drawVerticalGrid: false,
-      getDrawingHorizontalGridLine: (value) {
+      drawVerticalLine: false,
+      getDrawingHorizontalLine: (value) {
         return const FlLine(
           color: Colors.white12,
           strokeWidth: 1,
         );
       },
-      checkToShowHorizontalGrid: (value) {
+      checkToShowHorizontalLine: (value) {
         return (value - _minY) % _leftTitlesInterval == 0;
       },
     );
